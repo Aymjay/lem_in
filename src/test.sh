@@ -1,0 +1,27 @@
+./lem-in < right/1test
+./lem-in < right/2test
+./lem-in < right/3test
+./lem-in < right/4test
+./lem-in < right/5test
+./lem-in < right/6test
+./lem-in < right/test21
+./lem-in < right/tata
+./lem-in < right/test
+
+./lem-in < wrong/bad_room
+./lem-in < wrong/blank
+./lem-in < wrong/no_end
+./lem-in < wrong/test0
+./lem-in < wrong/test1
+./lem-in < wrong/test11
+./lem-in < wrong/test12
+./lem-in < wrong/test13
+./lem-in < wrong/test14
+./lem-in < wrong/test15
+./lem-in < wrong/test16
+./lem-in < wrong/test17
+./lem-in < wrong/test18
+./lem-in < wrong/test19
+./lem-in < wrong/test20
+./lem-in < wrong/test3
+./lem-in < wrong/test4
